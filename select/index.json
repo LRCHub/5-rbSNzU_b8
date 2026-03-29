@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Sunsetz",
+  "base_artist": "Cigarettes After Sex",
+  "createdAt": "2026-03-29T18:13:20.232661Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sunsetz",
+      "artist": "Cigarettes After Sex",
+      "has_synced": true,
+      "path": "select/01_Sunsetz_Cigarettes_After_Sex.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sunsetz",
+      "artist": "Cigarettes After Sex",
+      "has_synced": true,
+      "path": "select/02_Sunsetz_Cigarettes_After_Sex.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sunsetz - Cigarettes After Sex",
+      "artist": "Cigarettes After Sex",
+      "has_synced": true,
+      "path": "select/03_Sunsetz_-_Cigarettes_After_Sex_Cigarettes_After_Sex.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sunsetz",
+      "artist": "Cigarettes After Sex",
+      "has_synced": true,
+      "path": "select/04_Sunsetz_Cigarettes_After_Sex.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sunsetz",
+      "artist": "sloppycheesesandwich",
+      "has_synced": true,
+      "path": "select/05_Sunsetz_sloppycheesesandwich.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cigarettes After Sex - Sunsetz (slowed   reverb)",
+      "artist": "DragonFY",
+      "has_synced": true,
+      "path": "select/06_Cigarettes_After_Sex_-_Sunsetz_(slowed_reverb)_DragonFY.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sunsetz",
+      "artist": "Cigarettes After Sex",
+      "has_synced": true,
+      "path": "select/07_Sunsetz_Cigarettes_After_Sex.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sunsetz",
+      "artist": "Cigarettes After Sex",
+      "has_synced": true,
+      "path": "select/08_Sunsetz_Cigarettes_After_Sex.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sunsetz - Cigarettes After Sex",
+      "artist": "Cigarettes After Sex",
+      "has_synced": true,
+      "path": "select/09_Sunsetz_-_Cigarettes_After_Sex_Cigarettes_After_Sex.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sunsetz (Paused)",
+      "artist": "Cigarettes After Sex",
+      "has_synced": true,
+      "path": "select/10_Sunsetz_(Paused)_Cigarettes_After_Sex.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sunsetz - Cigarettes After Sex",
+      "artist": "CigarettesAfterSex",
+      "has_synced": true,
+      "path": "select/11_Sunsetz_-_Cigarettes_After_Sex_CigarettesAfterSex.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sunsetz (LP)",
+      "artist": "Cigarettes After Sex",
+      "has_synced": true,
+      "path": "select/12_Sunsetz_(LP)_Cigarettes_After_Sex.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sunsetz",
+      "artist": "Cigarettes After Sex",
+      "has_synced": false,
+      "path": "select/pl_01_Sunsetz_Cigarettes_After_Sex.txt"
+    }
+  ]
+}
